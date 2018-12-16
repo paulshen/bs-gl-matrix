@@ -13,6 +13,10 @@
   ],
   "author": "paulshen",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulshen/bs-gl-matrix.git"
+  },
   "devDependencies": {
     "bs-platform": "^4.0.14"
   },
